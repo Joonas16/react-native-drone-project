@@ -3,4 +3,4 @@
 RUN
 
 -- yarn install
--- expo start
+  -- expo start
